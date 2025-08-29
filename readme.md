@@ -7,7 +7,7 @@ A full‑stack web application for managing game inventory and marketplace tradi
 - List items for sale or trade in a real‑time marketplace.
 - User authentication with role‑based access control.
 - Admin dashboard for item and user management.
-- Secure RESTful API with input validation and error handling.
+- Secure RESTful API with input validation and error handling. 
 
 ## 🖥️ Tech Stack
 - **Frontend:** React.js
